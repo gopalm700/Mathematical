@@ -3,7 +3,7 @@ package com.gopal;
 public class TrailingZerosFactorial {
 
 	/**
-	 * This method calculates the number of zero in the end of the factorial of
+	 * This method calculates the number of trailing zeros of the factorial of
 	 * the given no.
 	 * 
 	 * Our logic is to summing of the integers in the factorial series 
