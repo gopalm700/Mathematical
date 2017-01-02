@@ -17,7 +17,8 @@ public class TrailingZerosFactorial {
 	 */
 	public int getLSZ(final int n) {
 
-		if (n < 5) {
+            		if (n < 5) {
+
 			return 0;
 		}
 		int j = n;
