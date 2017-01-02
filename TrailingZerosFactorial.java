@@ -8,7 +8,7 @@ public class TrailingZerosFactorial {
 	 * 
 	 * Our logic is to summing of the integers in the factorial series 
 	 * which is divisible by 5.
-	 * 
+	 * test sign
 	 * 5! = 5 X 4 X 3 X 2 X 1
 	 * 
 	 * 
